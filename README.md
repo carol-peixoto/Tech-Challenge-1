@@ -61,12 +61,7 @@ A análise identificou diferentes padrões de desempenho entre as categorias:
 ```text
 ├── README.md
 ├── Tech_Challenge_1.ipynb
-└── dados/
-    ├── olist_order_items_dataset.csv
-    ├── olist_order_reviews_dataset.csv
-    ├── olist_orders_dataset.csv
-    ├── olist_products_dataset.csv
-    └── olist_sellers_dataset.csv
+└── Dataset.zip
 ```
 
 *Observação: os arquivos CSV devem estar disponíveis no ambiente de execução para que o notebook possa ser executado integralmente.*
